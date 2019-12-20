@@ -3,7 +3,7 @@ thoe_one ={}
 end
 
 def actor
-favorite_actor = {name: "Jet Li"
+favorite_actor = {name: "Jet Li"}
 end
 
 def monopoly
