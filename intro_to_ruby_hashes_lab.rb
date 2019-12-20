@@ -1,9 +1,9 @@
 def new_hash
-
+thoe_one ={}
 end
 
 def actor
-
+favorite_actor = {name: "Jet Li"
 end
 
 def monopoly
