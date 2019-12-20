@@ -7,7 +7,7 @@ favorite_actor = {name: "Jet Li"
 end
 
 def monopoly
-	monopoly = {}
+	monopoly = { railroads: {}}
 
 end
 
